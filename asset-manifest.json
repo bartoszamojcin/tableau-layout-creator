@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tableau-layout-creator/static/css/main.f1eb1838.css",
-    "main.js": "/tableau-layout-creator/static/js/main.f1b1582a.js",
+    "main.js": "/tableau-layout-creator/static/js/main.bb0c1eef.js",
     "static/js/787.c94621bb.chunk.js": "/tableau-layout-creator/static/js/787.c94621bb.chunk.js",
     "index.html": "/tableau-layout-creator/index.html",
     "main.f1eb1838.css.map": "/tableau-layout-creator/static/css/main.f1eb1838.css.map",
-    "main.f1b1582a.js.map": "/tableau-layout-creator/static/js/main.f1b1582a.js.map",
+    "main.bb0c1eef.js.map": "/tableau-layout-creator/static/js/main.bb0c1eef.js.map",
     "787.c94621bb.chunk.js.map": "/tableau-layout-creator/static/js/787.c94621bb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1eb1838.css",
-    "static/js/main.f1b1582a.js"
+    "static/js/main.bb0c1eef.js"
   ]
 }
