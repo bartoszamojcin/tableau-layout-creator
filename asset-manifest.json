@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/tableau-layout-creator/static/css/main.f1eb1838.css",
-    "main.js": "/tableau-layout-creator/static/js/main.c9ab91fd.js",
-    "static/js/787.c94621bb.chunk.js": "/tableau-layout-creator/static/js/787.c94621bb.chunk.js",
-    "index.html": "/tableau-layout-creator/index.html",
-    "main.f1eb1838.css.map": "/tableau-layout-creator/static/css/main.f1eb1838.css.map",
-    "main.c9ab91fd.js.map": "/tableau-layout-creator/static/js/main.c9ab91fd.js.map",
-    "787.c94621bb.chunk.js.map": "/tableau-layout-creator/static/js/787.c94621bb.chunk.js.map"
+    "main.css": "/static/css/main.b262c685.css",
+    "main.js": "/static/js/main.eb5e0d1b.js",
+    "static/js/787.c94621bb.chunk.js": "/static/js/787.c94621bb.chunk.js",
+    "index.html": "/index.html",
+    "main.b262c685.css.map": "/static/css/main.b262c685.css.map",
+    "main.eb5e0d1b.js.map": "/static/js/main.eb5e0d1b.js.map",
+    "787.c94621bb.chunk.js.map": "/static/js/787.c94621bb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f1eb1838.css",
-    "static/js/main.c9ab91fd.js"
+    "static/css/main.b262c685.css",
+    "static/js/main.eb5e0d1b.js"
   ]
 }
